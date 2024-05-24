@@ -1,3 +1,4 @@
+source: ./docs
 plugins:
   - jekyll-relative-links
 relative_links:
