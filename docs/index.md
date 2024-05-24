@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Interview Prep
-permalink: /interview-prep/
 ---
 
 # Interview Prep ---
