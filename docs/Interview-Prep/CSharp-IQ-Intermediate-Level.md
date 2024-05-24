@@ -818,9 +818,9 @@ using (var scope = container.BeginLifetimeScope())
 
 Using DI and a DI container helps decouple components in your application, making it more maintainable, testable, and extensible. It also simplifies the management of object creation, reduces code duplication, and promotes best practices in software design.
 
-![Untitled](C#%20IQ%20Intermediate%20Level%209ff092ea7ba04bc6802c83d343811e41/Untitled.png)
+![Untitled](CSharp-IQ-Intermediate-Level/Untitled.png)
 
-![Untitled](C#%20IQ%20Intermediate%20Level%209ff092ea7ba04bc6802c83d343811e41/Untitled%201.png)
+![Untitled](CSharp-IQ-Intermediate-Level/Untitled%201.png)
 
 ### **Using ASP.NET Core Dependency Injection:**
 
