@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Interview Prep
 permalink: /interview-prep/
 ---

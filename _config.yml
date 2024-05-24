@@ -5,7 +5,7 @@ relative_links:
   enabled: true
   collections: true
 include:
- - interview-Prep.md
- - Interview-Prep
+ - index.md
+ - Interview-Prep/
 exclude:
   - README.md
