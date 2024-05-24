@@ -33,7 +33,7 @@ new Vue({
 
 **4. Explain the Vue template syntax.**
 
-**Answer:** Vue templates are HTML-based and extend the HTML with additional features like directives (`v-bind`, `v-if`, `v-for`) and expressions (`{{ }}`) to bind data and control the rendering of the DOM.
+**Answer:** Vue templates are HTML-based and extend the HTML with additional features like directives (`v-bind`, `v-if`, `v-for`) and expressions (`{% raw %}{{ }}{% endraw %}`) to bind data and control the rendering of the DOM.
 
 **Example:**
 
