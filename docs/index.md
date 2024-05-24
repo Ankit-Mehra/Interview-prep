@@ -5,7 +5,7 @@ title: Interview Prep
 
 # Interview Prep ---
 
-[C# IQ Beginner Level](Interview-Prep/C#-IQ-Beginner-Level.md)
+[CSharp IQ Beginner Level](Interview-Prep/CSharp-IQ-Beginner-Level.md)
 
 [C# IQ Intermediate Level](Interview%20Prep%20bc48bdf5323f4e9b8a48c22c54a6e5c4/C#%20IQ%20Intermediate%20Level%209ff092ea7ba04bc6802c83d343811e41.md)
 
