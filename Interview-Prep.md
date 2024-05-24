@@ -1,6 +1,12 @@
+---
+layout: page
+title: Interview Prep
+permalink: /interview-prep/
+---
+
 # Interview Prep
 
-[C# IQ Beginner Level](Interview%20Prep%20bc48bdf5323f4e9b8a48c22c54a6e5c4/C#%20IQ%20Beginner%20Level%20b2960b0c00b34b4e9ed690a718025cd4.md)
+[C# IQ Beginner Level](Interview-Prep/C#%20IQ%20Beginner%20Level%20b2960b0c00b34b4e9ed690a718025cd4.md)
 
 [C# IQ Intermediate Level](Interview%20Prep%20bc48bdf5323f4e9b8a48c22c54a6e5c4/C#%20IQ%20Intermediate%20Level%209ff092ea7ba04bc6802c83d343811e41.md)
 
